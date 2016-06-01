@@ -5,6 +5,6 @@ Proyecto para la generación colaborativa de manuales y ejercicios sobre la plat
 
 ## Manual
 
-[Manual](manual/manual.md]
+[Manual](manual/manual.md)
 
 ## Tutoriales
