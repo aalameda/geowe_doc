@@ -2,6 +2,7 @@
 
 #Mapa
 - Capas
+-   gestiona las capas de la sesión
 - Catálogo
 - Utilidades
 
