@@ -25,6 +25,7 @@
 - Adentro
 - Afuera
 - Seleccióm
+- Pondría un boton de Zoom + y otro de zoom - ( si no usas el ratón o no tienes scroll no puedes hacer zoom)
 
 #Dibujo
 - Polígono
